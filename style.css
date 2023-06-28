@@ -37,6 +37,7 @@ body {
   background: url(images/pattern-background-mobile.svg) no-repeat center center
     fixed;
   background-size: cover;
+  background-color: var(--pale-blue);
   font-size: 1.6rem;
   font-family: var(--font-red-hat);
 }
