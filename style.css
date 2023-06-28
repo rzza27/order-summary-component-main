@@ -56,12 +56,9 @@ main {
   width: 33rem;
   border-radius: 1.5rem;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  overflow: hidden;
 }
 
-.container-one img {
-  border-top-left-radius: 1.3rem;
-  border-top-right-radius: 1.3rem;
-}
 
 .container-two {
   padding: 3rem;
