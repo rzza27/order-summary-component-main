@@ -147,8 +147,7 @@ button.pay {
   margin-bottom: 1.5rem;
   border-radius: 8px;
   font-weight: 700;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
-}
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;}
 
 button.pay:hover {
   background-color: var(--desaturated-blue);
@@ -157,6 +156,7 @@ button.pay:hover {
 button.cancel {
   color: var(--desaturated-blue);
   font-weight: 700;
+  background-color: #F5F7FF;
 }
 
 button.cancel:hover {
